@@ -1,5 +1,4 @@
 # Core Rules
 
-> This is a test
-
-> 'This is a test'
+> [!Note]
+> This is a test note.
