@@ -1,1 +1,1 @@
-#Core Rules#
+# Core Rules
