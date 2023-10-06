@@ -1,4 +1,4 @@
 # Core Rules
 
-> [!Note]
+> [!Important]
 > This is a test note.
